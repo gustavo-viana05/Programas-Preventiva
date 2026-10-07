@@ -4,8 +4,8 @@ Facilita para ganhar tempo e não precisa ficar procurando em sites.
 Apenas com um clique ele baixa e instala os programas.
 
 Contém
-CrystalDewWorld.CrystalDiskInfo
-CrystalDewWorld.CrystalDiskMark
-CPUID.HWMonitor
-CPUID.CPU-Z
+CrystalDewWorld.CrystalDiskInfo,
+CrystalDewWorld.CrystalDiskMark,
+CPUID.HWMonitor,
+CPUID.CPU-Z,
 AnyDeskSoftwareGmbH.AnyDesk
