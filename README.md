@@ -8,4 +8,4 @@ CrystalDewWorld.CrystalDiskInfo,
 CrystalDewWorld.CrystalDiskMark,
 CPUID.HWMonitor,
 CPUID.CPU-Z,
-AnyDeskSoftwareGmbH.AnyDesk
+AnyDesk
